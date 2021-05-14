@@ -10,7 +10,8 @@
 ### Links
 
 <p align="center">
-  <a href=""><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt=""/></a>
+  <a href="https://github.com/v-ca/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="GitHub Homepage"/></a>
+  <a href="https://theluminositylab.com/"><img src="https://theluminositylab.com/android-chrome-192x192.png" alt="Luminosity Lab" height="96" width="96"/></a>
   <a href="mailto:rvcaldw1@asu.edu"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/_v_ca"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.instagram.com/artofvincentcaldwell"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
