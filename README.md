@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/artofvincentcaldwell"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/project"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://medium.com/@v-ca"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://open.spotify.com/playlist/1p4n5kVoLk0dySRYyQAVwA?si=peTTGeBISRiDOWROtcPvcQ"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  <a href="https://open.spotify.com/playlist/4Hqx3kq2YeNFFBb1tQM5bh?si=lD_tSVWkTT6BFil69BFE4A"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 
 ---
 ### **Summary Statistics:**
