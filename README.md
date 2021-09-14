@@ -2,9 +2,9 @@
 
 - 🔭 : I’m currently working on - Bachelor of Science in Data Science (emph. Mathematics), Arizona State University, 3.79 GPA
 
-- 🌱 : I’m currently learning - Optimization, Statistics, Data Science, Machine Learning, NLP, Computer-Vision. I'm also working on learning cryptography as a side hustle.
+- 🌱 : I’m currently learning - Optimization, Statistics, Data Science, Machine Learning, NLP, Computer Vision. I'm also working on learning cryptography as a side hustle.
 
-- 👯 : I’m looking to collaborate on data science, social psychology, non-profit and machine learning projects.
+- 👯 : I’m looking to collaborate on data science, social psychology, non-profit, and machine learning projects.
 
 Additionally, it may be important to note that all of this is a work in progress. I am still attempting to set up and share repositories - as well as engage more with social media. Ideally, I will be satisfied once I turn this section into a mini-resume. This should be accomplished within the next few weeks. Thank you.
 
