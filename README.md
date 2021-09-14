@@ -4,7 +4,7 @@
 
 - 🌱 : I’m currently learning - Optimization, Statistics, Data Science, Machine Learning, NLP, Computer-Vision. I'm also working on learning cryptography as a side hustle.
 
-- 👯 : I’m looking to collaborate on data science, social psychology, and machine learning projects.
+- 👯 : I’m looking to collaborate on data science, social psychology, non-profit and machine learning projects.
 
 Additionally, it may be important to note that all of this is a work in progress. I am still attempting to set up and share repositories - as well as engage more with social media. Ideally, I will be satisfied once I turn this section into a mini-resume. This should be accomplished within the next few weeks. Thank you.
 
@@ -12,7 +12,7 @@ Additionally, it may be important to note that all of this is a work in progress
 ### Let's Connect: 
 
 <p align="center">
-  <a href="https://github.com/v-ca/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="GitHub Homepage"/></a>
+  <a href="http://www.sigmamu.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="Sigma/Mu Homepage"/></a>
   <a href="https://theluminositylab.com/"><img src="https://theluminositylab.com/android-chrome-192x192.png" alt="Luminosity Lab" height="96" width="96"/></a>
   <a href="mailto:rvcaldw1@asu.edu"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/_v_ca"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
