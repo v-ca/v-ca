@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 : I’m currently working on - Bachelor of Science in Data Science (emph. Mathematics), Arizona State University, 3.79 GPA
+- 🔭 : I’m currently working on - Master of Science in Applied Data Science, University of Chicago
 
 - 🌱 : I’m currently learning - Optimization, Statistics, Data Science, Machine Learning, NLP, Computer Vision. I'm also working on learning cryptography as a side hustle.
 
