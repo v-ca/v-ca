@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-- 🔭 : I’m currently working on - Master of Science in Applied Data Science, University of Chicago
-
-- 🌱 : I’m currently learning - Optimization, Statistics, Data Science, Machine Learning, NLP, Computer Vision. I'm also working on learning cryptography as a side hustle.
-
-- 👯 : I’m looking to collaborate on data science, social psychology, non-profit, and machine learning projects.
-
-Additionally, it may be important to note that all of this is a work in progress. I am still attempting to set up and share repositories - as well as engage more with social media. Ideally, I will be satisfied once I turn this section into a mini-resume. This should be accomplished within the next few weeks. Thank you.
+I’m currently working on updating this space.
 
 ---
 ### Let's Connect: 
