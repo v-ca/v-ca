@@ -27,8 +27,3 @@ Additionally, it may be important to note that all of this is a work in progress
   --- | Ganymede | ![GitHub repo size](https://img.shields.io/github/repo-size/v-ca/Ganymede) | ![GitHub top language](https://img.shields.io/github/languages/top/v-ca/Ganymede) | ![GitHub language count](https://img.shields.io/github/languages/count/v-ca/Ganymede) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/v-ca/Ganymede/master)
  Data Science | --- | --- | --- | --- | ---
  --- | Tip-Toe Through the Forest | ![GitHub repo size](https://img.shields.io/github/repo-size/v-ca/Tip-Toe-Through-Forest) | ![GitHub top language](https://img.shields.io/github/languages/top/v-ca/Tip-Toe-Through-Forest) | ![GitHub language count](https://img.shields.io/github/languages/count/v-ca/Tip-Toe-Through-Forest) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/v-ca/Tip-Toe-Through-Forest) 
- 
----
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=v-ca" alt="visitor badge"/>
-</p>
