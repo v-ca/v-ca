@@ -14,11 +14,10 @@ Additionally, it may be important to note that all of this is a work in progress
 <p align="center">
   <a href="http://www.sigmamu.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="Sigma/Mu Homepage"/></a>
   <a href="https://theluminositylab.com/"><img src="https://avatars.githubusercontent.com/u/22361867?s=200&v=4" alt="Luminosity Lab" height="96" width="96"/></a>
-  <a href="mailto:rvcaldw1@asu.edu"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/_v_ca"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="mailto:rvcaldwell@uchicago.edu"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.instagram.com/artofvincentcaldwell"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/project"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://medium.com/@v-ca"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://medium.com/@rvcaldwell"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 
 ---
 ### **Summary Statistics:**
