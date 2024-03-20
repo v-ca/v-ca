@@ -20,15 +20,6 @@ Additionally, it may be important to note that all of this is a work in progress
   <a href="https://medium.com/@rvcaldwell"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 
 ---
-### **Summary Statistics:**
-<a href="https://github.com/v-ca/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=v-ca&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub Statistics&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=v-ca">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-ca&count_private=true&show_icons=true&include_all_commits&custom_title=Repository Content&layout=compact&theme=tokyonight" />
-</a>
-
----
 ### **Highlighted Projects:**
  ---  | Project Name | Repo Size | Top Language | Total Languages | Last Commit
 ------|------|------|------|-------|--------
